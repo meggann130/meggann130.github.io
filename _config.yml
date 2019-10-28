@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "CSMB / APCSP"
 title_separator          : "-"
-name                     : &name "Alex Schenk"
+name                     : &name "Megan T"
 description              : &description "This is a sample student portfoio for AP Computer Science Principles"
 url                      : https://meggann130.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Schenk"
+  name             : "Megan T"
   avatar           : "Gerald_G_Rubber_Duck.png"
   bio              : "This is a sample portfolio for AP Computer Science Principles. In AP Computer Science Principles, students learn how to creatively address real-world issues with the tools and processes of computer science."
   location         : "St. Louis, MO"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alexander-schenk-75397012a"
+  linkedin         : "megan-t-75397012a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "alexjschenk"
+  twitter          :
   vine             :
   weibo            :
   xing             :
